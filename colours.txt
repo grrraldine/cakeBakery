@@ -1,0 +1,8 @@
+Paleta de colores
+back-ground: #e9eaea;
+words1: #fff;
+words2: #000;
+words3: #999;/ #ccc
+colorRed: #9f0311;
+
+
